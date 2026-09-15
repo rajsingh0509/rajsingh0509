@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Raj Singh
 
-<!--
-**rajsingh0509/rajsingh0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Integrated MCA Student | Aspiring Web Developer
 
-Here are some ideas to get you started:
+I'm Raj Singh, a first-year Integrated MCA student at **IIPS, DAVV**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently starting my programming journey and learning the fundamentals of computer science, programming, and web development.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Studying **Integrated MCA** at IIPS, DAVV
+- 📚 Currently in **1st Year, 1st Semester**
+- 🌱 Currently learning **C Programming**
+- 💻 Familiar with **GitHub** and **VS Code**
+- 🎯 Career Goal: **Web Developer**
+- 🔍 Currently exploring programming and development
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming
+- C (Currently Learning)
+
+### Tools
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📚 Currently Learning
+
+```text
+C Programming
+    ↓
+Programming Fundamentals
+    ↓
+Data Structures & Algorithms
+    ↓
+HTML & CSS
+    ↓
+JavaScript
+    ↓
+Web Development
